@@ -1,0 +1,6 @@
+[submodule "basestation-core-electric"]
+	path = basestation-core-electric
+	url = https://github.com/pr2-debs/basestation-core-electric
+[submodule "basestation-core-fuerte"]
+	path = basestation-core-fuerte
+	url = https://github.com/pr2-debs/basestation-core-fuerte
